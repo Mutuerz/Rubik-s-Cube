@@ -1,0 +1,22 @@
+Start of the Operation
+The face: 3 was rotated to the left
+Mayor: 12
+The face: 5 was rotated to the left
+Mayor: 15
+The face: 5 was rotated to the right
+Mayor: 12
+The face: 1 was rotated to the right
+Mayor: 22
+The face: 6 was rotated to the right
+Mayor: 10
+The face: 5 was rotated to the left
+Mayor: 14
+The face: 3 was rotated to the right
+The face: 6 was rotated to the left
+The face: 6 was rotated to the left
+The face: 6 was rotated to the left
+Mayor: 14
+Mayor: 14
+Mayor: 34
+Mayor: 54
+--- 769.6444752216339 seconds ---
